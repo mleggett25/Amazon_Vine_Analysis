@@ -38,4 +38,4 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 ![Non-Vine Percent](Resources/unpaid_5star_percent.PNG)
 
 ## Summary of Results
-
+Based on the results of the analysis, we can conclude that there is no positivity bias for reviews in the Vine program. This conclusion can be drawn from the percentages of 5-Star reviews, as both Vine and Non-Vine reviews are 57% 5-Stars. For further analysis, a summary statistics, particulary showing the mean, median, mode, minimum value, maximum value, and standard deviation would be beneficial to compare reviews in the Vine program versus non-Vine program reviews.
