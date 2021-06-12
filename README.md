@@ -3,7 +3,7 @@
 ## Overview of Amazon Vine Analysis
 
 ### Purpose
-The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program using a dataset of musical instruments.
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program using a dataset of musical instruments. The goal is to see if there is a favorable review bias from Vine members.
 
 ## Results
 
