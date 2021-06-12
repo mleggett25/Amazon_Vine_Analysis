@@ -10,6 +10,7 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 ### Number of Vine Reviews and Non-Vine Reviews
 
 -- Total Number of Vine Reviews
+
 [Vine Reviews](Resources/total_paid_review.png)
 
 -- Total Number of Non-Vine Reviews
